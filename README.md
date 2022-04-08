@@ -8,7 +8,7 @@ You can find all the info [here](https://www.start2impact.it/percorsi/) about st
 
 ## Javascript Basics
 
-This project is about to create a simple counter, it's a good practice for beginners.
+This project is about creating a simple counter, it's a good practice for beginners.
 
 You can practice:
 
