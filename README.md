@@ -1,10 +1,10 @@
 # Counter
 
-This is my second project I created from the **Javascripts Basics Start2Impact's** guide.
+This is my second project I created from the **Javascript Basics Start2Impact's** guide.
 
 ## Start2impact
 
-You can find all the info [here](https://www.start2impact.it/percorsi/full-stack/) about start2impact courses.
+You can find all the info [here](https://www.start2impact.it/percorsi/) about start2impact courses.
 
 ## Javascript Basics
 
@@ -14,11 +14,11 @@ You can practice:
 
 - Create simple logic
 - Having a clean and understandable syntax
-- Adding html tags through javascripts
-- Adding and removing classes from javascripts
+- Adding html tags through javascript
+- Adding and removing classes from javascript
 
-You can find all the documentation [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript?retiredLocale).
+You can find all the documentation of Javascript [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript?retiredLocale).
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.

@@ -9,6 +9,7 @@ body {
     font-size: 50px;
     color: #041b2d;
     background: linear-gradient(to right, #4a707a, #7697a0);
+    user-select: none;
     
 }
 
@@ -18,9 +19,11 @@ body {
     align-items: center;
     text-align: center;
     min-height: 100vh;
+    
 }
 
 .container {
+    
     background-color: #94b0b7;
     height: 400px;
     width: 400px;
@@ -44,7 +47,7 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    width: 400px;
+    width: 394px;
     height: 150px;
 }
 
@@ -84,7 +87,7 @@ button {
             background-color: #041b2d;
             border: 2px solid #ddddda;
             color: #c2c8c5;
-            height: 42px;
+            height: 40px;
             font-size: 18px;
-            transition: 0.1s ease;
+            transition: 0.15s ease;
 }
