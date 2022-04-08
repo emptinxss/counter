@@ -10,7 +10,7 @@ You can find all the info [here](https://www.start2impact.it/percorsi/) about st
 
 This project is about creating a simple counter, it's a good practice for beginners.
 
-You can practice:
+You can practice to:
 
 - Create simple logic
 - Having a clean and understandable syntax
