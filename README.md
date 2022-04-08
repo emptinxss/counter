@@ -18,3 +18,7 @@ You can practice:
 - Adding and removing classes from javascripts
 
 You can find all the documentation [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript?retiredLocale).
+
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
