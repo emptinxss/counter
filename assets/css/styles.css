@@ -106,3 +106,37 @@ footer a {
     color: #041b2d;
     text-decoration: none;
 }
+
+@media screen and (max-width: 493px) {
+
+    header {
+        font-size: 55px;
+    }
+
+    .container {
+        height: 330px;
+        width: 330px;
+        border: 2px solid #ddddda;
+        
+    }
+
+    .screen {
+        height: 165px;
+    }
+
+    .controls {
+        width: 326px;
+        height: 115px;
+    }
+
+    .reset-button {
+        font-size: 14px;
+        padding: 2px;
+        height: 28px;
+    }
+
+    footer {
+        padding-top: 60px;
+        font-size: 14px;
+    }
+}
